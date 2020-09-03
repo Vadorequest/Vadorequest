@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vadorequest (AKA "Ambroise Dhenain" IRL)</h1>
 <h3 align="center">A very passionate developer since my youngest age, from France.</h3>
 
-> I also happen to be a CTO and co-founder of (Unly)[https://unly.org/], a tech company meant to help access higher education for students.
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vadorequest" alt="vadorequest" />
 </p>
@@ -18,6 +16,8 @@
 - 💬&nbsp;&nbsp;Ask me about **entrepreneurship, mentorship, programming, daily hacks, productivity, security**
 
 - 📫&nbsp;&nbsp;How to reach me **Twitter/LinkedIn** or open a Github issue [here](https://github.com/Vadorequest/Vadorequest/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+
+> I also happen to be a CTO and co-founder of (Unly)[https://unly.org/], a tech company meant to help access higher education for students.
 
 ### Tech stack
 
