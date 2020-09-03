@@ -93,3 +93,7 @@
 - [Upgrading python from 2.7.15 to 2.7.18 breaks Django app with SyntaxError (import AppConf # noqa)](https://stackoverflow.com/questions/62814582/upgrading-python-from-2-7-15-to-2-7-18-breaks-django-app-with-syntaxerror-impor)
 - [If you’re looking at building a Next.js](https://medium.com/@Vadorequest/if-youre-looking-at-building-a-next-js-cb3bea52178f?source=rss-3e4790365c74------2)
 <!-- BLOG-POST-LIST:END -->
+
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
