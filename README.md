@@ -41,6 +41,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
+### Github statistics
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vadorequest&layout=compact&hide=php,smarty&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vadorequest&show_icons=true&count_private=true&show_icons=true&hide=php&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="vadorequest" />
 </p>
@@ -52,19 +54,16 @@
 <p align="center">
   <a href="https://dev.to/vadorequest" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vadorequest" height="30" width="30" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/vadorequest" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vadorequest" height="30" width="30" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ambroise-dhenain" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ambroise-dhenain" height="30" width="30" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/2391795" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="2391795" height="30" width="30" />
-  </a>
-  <a href="https://codesandbox.com/vadorequest" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="vadorequest" height="30" width="30" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@vadorequest" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@vadorequest" height="30" width="30" />
   </a>
