@@ -1,7 +1,6 @@
 name: Latest stack overflow activity
 on:
   push: # Run workflow automatically, on push
-    branches: ["main"]
   schedule: # Run workflow automatically, on schedule
     # Runs every hour	    - cron: '0 * * * *' # Runs every hour, on the hour
     - cron: '0 * * * *'	  
