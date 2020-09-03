@@ -87,9 +87,9 @@
 > Dynamic list of my blog posts on Medium and StackOverflow
 
 <!-- BLOG-POST-LIST:START -->
+- [Answer by Vadorequest for reactstrap - how can I change the color of the <CarouselControl> 's (the small arrows on left/right you click to slide the photos)?](https://stackoverflow.com/questions/59708901/reactstrap-how-can-i-change-the-color-of-the-carouselcontrol-s-the-small-a/63101076#63101076)
 - [How would you keep the same Python 2.7 app running for years to come?](https://dev.to/vadorequest/how-would-you-keep-the-same-python-2-7-app-running-for-years-to-come-2bj)
+- [Answer by Vadorequest for Upgrading python from 2.7.15 to 2.7.18 breaks Django app with SyntaxError (import AppConf # noqa)](https://stackoverflow.com/questions/62814582/upgrading-python-from-2-7-15-to-2-7-18-breaks-django-app-with-syntaxerror-impor/62816654#62816654)
+- [Upgrading python from 2.7.15 to 2.7.18 breaks Django app with SyntaxError (import AppConf # noqa)](https://stackoverflow.com/questions/62814582/upgrading-python-from-2-7-15-to-2-7-18-breaks-django-app-with-syntaxerror-impor)
 - [If you’re looking at building a Next.js](https://medium.com/@Vadorequest/if-youre-looking-at-building-a-next-js-cb3bea52178f?source=rss-3e4790365c74------2)
-- [Next Right Now v2 - Play around with Next.js v9.4 using SSG/SSR, incremental builds, fallback builds, preview mode and more!](https://dev.to/vadorequest/next-right-now-v2-play-around-with-next-js-v9-4-using-ssg-ssr-incremental-builds-fallback-builds-preview-mode-and-more-ood)
-- [Looking for a multi-tenants CMS](https://dev.to/vadorequest/looking-for-a-multi-tenants-cms-4dpj)
-- [Next Right Now - Flexible production-grade boilerplate for building web apps (monorepo), with Next.js, Zeit and TypeScript](https://dev.to/vadorequest/next-right-now-flexible-production-grade-boilerplate-for-building-web-apps-monorepo-with-next-js-zeit-and-typescript-2ich)
 <!-- BLOG-POST-LIST:END -->
