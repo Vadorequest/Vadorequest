@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Vadorequest for Extending HTML elements in React and TypeScript while preserving props](https://stackoverflow.com/questions/40731352/extending-html-elements-in-react-and-typescript-while-preserving-props/64262280#64262280)
 - [Answer by Vadorequest for reactstrap - how can I change the color of the <CarouselControl> 's (the small arrows on left/right you click to slide the photos)?](https://stackoverflow.com/questions/59708901/reactstrap-how-can-i-change-the-color-of-the-carouselcontrol-s-the-small-a/63101076#63101076)
 - [Answer by Vadorequest for Upgrading python from 2.7.15 to 2.7.18 breaks Django app with SyntaxError (import AppConf # noqa)](https://stackoverflow.com/questions/62814582/upgrading-python-from-2-7-15-to-2-7-18-breaks-django-app-with-syntaxerror-impor/62816654#62816654)
 - [Upgrading python from 2.7.15 to 2.7.18 breaks Django app with SyntaxError (import AppConf # noqa)](https://stackoverflow.com/questions/62814582/upgrading-python-from-2-7-15-to-2-7-18-breaks-django-app-with-syntaxerror-impor)
@@ -122,6 +123,5 @@
 - [How to automatically close react-select menu once the last item has been selected? (empty list)](https://stackoverflow.com/questions/60138160/how-to-automatically-close-react-select-menu-once-the-last-item-has-been-selecte)
 - [Server side detection iframe](https://stackoverflow.com/questions/60009963/server-side-detection-iframe)
 - [How to force JSON.parse to throw on numbers?](https://stackoverflow.com/questions/59975658/how-to-force-json-parse-to-throw-on-numbers)
-- [Answer by Vadorequest for How to pass a JSON array as a parameter in URL](https://stackoverflow.com/questions/27577922/how-to-pass-a-json-array-as-a-parameter-in-url/59428786#59428786)
 - [Answer by Vadorequest for How to integrate next-i18next, nextjs & locize](https://stackoverflow.com/questions/55994799/how-to-integrate-next-i18next-nextjs-locize/58782594#58782594)
 <!-- STACKOVERFLOW:END -->
