@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [How to filter array of objects by element property values and select the first element, using jq?](https://stackoverflow.com/questions/64402825/how-to-filter-array-of-objects-by-element-property-values-and-select-the-first-e)
 - [How to change a variable type in TypeScript without rewriting the variable?](https://stackoverflow.com/questions/64291672/how-to-change-a-variable-type-in-typescript-without-rewriting-the-variable)
 - [Answer by Vadorequest for Extending HTML elements in React and TypeScript while preserving props](https://stackoverflow.com/questions/40731352/extending-html-elements-in-react-and-typescript-while-preserving-props/64262280#64262280)
 - [Answer by Vadorequest for reactstrap - how can I change the color of the <CarouselControl> 's (the small arrows on left/right you click to slide the photos)?](https://stackoverflow.com/questions/59708901/reactstrap-how-can-i-change-the-color-of-the-carouselcontrol-s-the-small-a/63101076#63101076)
@@ -123,5 +124,4 @@
 - [AJV - Check property is a function](https://stackoverflow.com/questions/60196587/ajv-check-property-is-a-function)
 - [How to automatically close react-select menu once the last item has been selected? (empty list)](https://stackoverflow.com/questions/60138160/how-to-automatically-close-react-select-menu-once-the-last-item-has-been-selecte)
 - [Server side detection iframe](https://stackoverflow.com/questions/60009963/server-side-detection-iframe)
-- [How to force JSON.parse to throw on numbers?](https://stackoverflow.com/questions/59975658/how-to-force-json-parse-to-throw-on-numbers)
 <!-- STACKOVERFLOW:END -->
