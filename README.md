@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Vadorequest for How to get image size (height & width) using JavaScript?](https://stackoverflow.com/questions/623172/how-to-get-image-size-height-width-using-javascript/64694446#64694446)
 - [Git good practices to keep a forked project up-to-date with its source origin when both are evolving](https://stackoverflow.com/questions/64483037/git-good-practices-to-keep-a-forked-project-up-to-date-with-its-source-origin-wh)
 - [How to filter array of objects by element property values and select the first element, using jq?](https://stackoverflow.com/questions/64402825/how-to-filter-array-of-objects-by-element-property-values-and-select-the-first-e)
 - [How to change a variable type in TypeScript without rewriting the variable?](https://stackoverflow.com/questions/64291672/how-to-change-a-variable-type-in-typescript-without-rewriting-the-variable)
@@ -123,5 +124,4 @@
 - [Answer by Vadorequest for How to add Font Awesome to Next.js project](https://stackoverflow.com/questions/44752189/how-to-add-font-awesome-to-next-js-project/60512800#60512800)
 - [Answer by Vadorequest for Server side detection iframe](https://stackoverflow.com/questions/60009963/server-side-detection-iframe/60415143#60415143)
 - [AJV - Check property is a function](https://stackoverflow.com/questions/60196587/ajv-check-property-is-a-function)
-- [How to automatically close react-select menu once the last item has been selected? (empty list)](https://stackoverflow.com/questions/60138160/how-to-automatically-close-react-select-menu-once-the-last-item-has-been-selecte)
 <!-- STACKOVERFLOW:END -->
