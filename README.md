@@ -122,6 +122,6 @@
 - [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
 - [Answer by Vadorequest for integrating Sentry in Next.js project](https://stackoverflow.com/questions/57195586/integrating-sentry-in-next-js-project/60512952#60512952)
 - [Answer by Vadorequest for How to add Font Awesome to Next.js project](https://stackoverflow.com/questions/44752189/how-to-add-font-awesome-to-next-js-project/60512800#60512800)
-- [Answer by Vadorequest for Server side detection iframe](https://stackoverflow.com/questions/60009963/server-side-detection-iframe/60415143#60415143)
 - [AJV - Check property is a function](https://stackoverflow.com/questions/60196587/ajv-check-property-is-a-function)
+- [How to automatically close react-select menu once the last item has been selected? (empty list)](https://stackoverflow.com/questions/60138160/how-to-automatically-close-react-select-menu-once-the-last-item-has-been-selecte)
 <!-- STACKOVERFLOW:END -->
