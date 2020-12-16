@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [How does "unpublishing" a GitHub Action from the Marketplace works? Is it possible? Are published versions safe?](https://stackoverflow.com/questions/65319710/how-does-unpublishing-a-github-action-from-the-marketplace-works-is-it-possib)
 - [Answer by Vadorequest for Git good practices to keep a forked project up-to-date with its source origin when both are evolving](https://stackoverflow.com/questions/64483037/git-good-practices-to-keep-a-forked-project-up-to-date-with-its-source-origin-wh/65066272#65066272)
 - [Answer by Vadorequest for How to dynamically generate test cases in Cypress?](https://stackoverflow.com/questions/63114302/how-to-dynamically-generate-test-cases-in-cypress/65066133#65066133)
 - [Answer by Vadorequest for How to get image size (height & width) using JavaScript?](https://stackoverflow.com/questions/623172/how-to-get-image-size-height-width-using-javascript/64694446#64694446)
@@ -122,6 +123,5 @@
 - [What does a "!" after a parenthesis call do? [duplicate]](https://stackoverflow.com/questions/60598175/what-does-a-after-a-parenthesis-call-do)
 - [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
 - [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
-- [Answer by Vadorequest for integrating Sentry in Next.js project](https://stackoverflow.com/questions/57195586/integrating-sentry-in-next-js-project/60512952#60512952)
 - [Answer by Vadorequest for How to add Font Awesome to Next.js project](https://stackoverflow.com/questions/44752189/how-to-add-font-awesome-to-next-js-project/60512800#60512800)
 <!-- STACKOVERFLOW:END -->
