@@ -122,6 +122,6 @@
 - [Yarn - Use global binary instead of local binary](https://stackoverflow.com/questions/60996802/yarn-use-global-binary-instead-of-local-binary)
 - [react-admin - ChipField conditional color in List view](https://stackoverflow.com/questions/60695739/react-admin-chipfield-conditional-color-in-list-view)
 - [What does a "!" after a parenthesis call do? [duplicate]](https://stackoverflow.com/questions/60598175/what-does-a-after-a-parenthesis-call-do)
-- [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
+- [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
 - [Answer by Vadorequest for How to add Font Awesome to Next.js project](https://stackoverflow.com/questions/44752189/how-to-add-font-awesome-to-next-js-project/60512800#60512800)
 <!-- STACKOVERFLOW:END -->
