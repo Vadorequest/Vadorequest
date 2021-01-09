@@ -90,6 +90,7 @@
 > Dynamic list of my blog posts on Medium and StackOverflow
 
 <!-- BLOG-POST-LIST:START -->
+- [Next Right Now in 2020 - Most flexible and production-ready boilerplate for Next.js](https://dev.to/vadorequest/next-right-now-in-2020-most-flexible-and-production-ready-boilerplate-for-next-js-3hkk)
 - [How would you keep the same Python 2.7 app running for years to come?](https://dev.to/vadorequest/how-would-you-keep-the-same-python-2-7-app-running-for-years-to-come-2bj)
 - [If you’re looking at building a Next.js](https://medium.com/@Vadorequest/if-youre-looking-at-building-a-next-js-cb3bea52178f?source=rss-3e4790365c74------2)
 - [Next Right Now v2 - Play around with Next.js v9.4 using SSG/SSR, incremental builds, fallback builds, preview mode and more!](https://dev.to/vadorequest/next-right-now-v2-play-around-with-next-js-v9-4-using-ssg-ssr-incremental-builds-fallback-builds-preview-mode-and-more-ood)
@@ -99,7 +100,6 @@
 - [Airtable backups made simpler with AWS Lambda & S3!](https://dev.to/vadorequest/airtable-backups-made-simpler-with-aws-lambda-s3-20ga)
 - [[JS] Universal language detector](https://dev.to/vadorequest/js-universal-language-detector-344i)
 - [New boilerplate project quickstart with Next.js TypeScript powered by Zeit Now with built-in Sentry support](https://dev.to/vadorequest/new-boilerplate-project-quickstart-with-next-js-typescript-powered-by-zeit-now-with-built-in-sentry-support-6c4)
-- [GraphQL/GraphCMS Cache Contingency](https://dev.to/vadorequest/graphql-graphcms-cache-contingency-23hb)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
