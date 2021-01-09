@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Vadorequest for Launching a website via windows commandline](https://stackoverflow.com/questions/3739327/launching-a-website-via-windows-commandline/65643034#65643034)
 - [Answer by Vadorequest for How do I POST JSON data with cURL?](https://stackoverflow.com/questions/7172784/how-do-i-post-json-data-with-curl/65509003#65509003)
 - [Answer by Vadorequest for How to fetch the list of workflows for a GitHub private repository?](https://stackoverflow.com/questions/65440951/how-to-fetch-the-list-of-workflows-for-a-github-private-repository/65458186#65458186)
 - [How to fetch the list of workflows for a GitHub private repository?](https://stackoverflow.com/questions/65440951/how-to-fetch-the-list-of-workflows-for-a-github-private-repository)
@@ -122,6 +123,5 @@
 - [Answer by Vadorequest for How can I insert a line break into a <Text> component in React Native?](https://stackoverflow.com/questions/32469570/how-can-i-insert-a-line-break-into-a-text-component-in-react-native/61636719#61636719)
 - [The difference between “require(x)” and “await import x”](https://stackoverflow.com/questions/61631355/the-difference-between-requirex-and-await-import-x)
 - [What are the major drawbacks of having a domain that contains characters with accents as of 2020?](https://stackoverflow.com/questions/61086359/what-are-the-major-drawbacks-of-having-a-domain-that-contains-characters-with-ac)
-- [Yarn - Use global binary instead of local binary](https://stackoverflow.com/questions/60996802/yarn-use-global-binary-instead-of-local-binary)
 - [react-admin - ChipField conditional color in List view](https://stackoverflow.com/questions/60695739/react-admin-chipfield-conditional-color-in-list-view)
 <!-- STACKOVERFLOW:END -->
