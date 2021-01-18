@@ -90,6 +90,7 @@
 > Dynamic list of my blog posts on Medium and StackOverflow
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Next.js (+Jest/Storybook/Cypress) to use module path aliases, instead of relative paths](https://dev.to/vadorequest/migrating-next-js-jest-storybook-cypress-to-use-module-path-aliases-instead-of-relative-paths-d9a)
 - [Using Storybook 6.1 with Next.js and Emotion 11 — Advanced usage and best practices](https://medium.com/unly-org/using-storybook-6-1-with-next-js-and-emotion-11-advanced-usage-and-best-practices-77a73db46bdb?source=rss-3e4790365c74------2)
 - [Using Storybook 6.1 with Next.js and Emotion 11 - Advanced usage and best practices](https://dev.to/vadorequest/using-storybook-6-1-with-next-js-and-emotion-11-advanced-usage-and-best-practices-263h)
 - [Next Right Now in 2020 — Most flexible and production-ready boilerplate for Next.js](https://medium.com/unly-org/next-right-now-in-2020-most-flexible-and-production-ready-boilerplate-for-next-js-c7e39bf1474?source=rss-3e4790365c74------2)
@@ -99,7 +100,6 @@
 - [Looking for a multi-tenants CMS](https://dev.to/vadorequest/looking-for-a-multi-tenants-cms-4dpj)
 - [Next Right Now - Flexible production-grade boilerplate for building web apps (monorepo), with Next.js, Zeit and TypeScript](https://dev.to/vadorequest/next-right-now-flexible-production-grade-boilerplate-for-building-web-apps-monorepo-with-next-js-zeit-and-typescript-2ich)
 - [What technologies can help building an interactive map of nodes, that may be linked to each other (JS)](https://dev.to/vadorequest/what-technologies-can-help-building-an-interactive-map-of-nodes-that-may-be-linked-to-each-other-js-10ko)
-- [Airtable backups made simpler with AWS Lambda & S3!](https://dev.to/vadorequest/airtable-backups-made-simpler-with-aws-lambda-s3-20ga)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
