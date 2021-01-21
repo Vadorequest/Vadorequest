@@ -122,6 +122,6 @@
 - [Upgrading python from 2.7.15 to 2.7.18 breaks Django app with SyntaxError (import AppConf # noqa)](https://stackoverflow.com/questions/62814582/upgrading-python-from-2-7-15-to-2-7-18-breaks-django-app-with-syntaxerror-impor)
 - [Answer by Vadorequest for How can I insert a line break into a <Text> component in React Native?](https://stackoverflow.com/questions/32469570/how-can-i-insert-a-line-break-into-a-text-component-in-react-native/61636719#61636719)
 - [The difference between “require(x)” and “await import x”](https://stackoverflow.com/questions/61631355/the-difference-between-requirex-and-await-import-x)
-- [What are the major drawbacks of having a domain that contains characters with accents as of 2020?](https://stackoverflow.com/questions/61086359/what-are-the-major-drawbacks-of-having-a-domain-that-contains-characters-with-ac)
 - [react-admin - ChipField conditional color in List view](https://stackoverflow.com/questions/60695739/react-admin-chipfield-conditional-color-in-list-view)
+- [Answer by Vadorequest for integrating Sentry in Next.js project](https://stackoverflow.com/questions/57195586/integrating-sentry-in-next-js-project/60512952#60512952)
 <!-- STACKOVERFLOW:END -->
