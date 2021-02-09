@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Vadorequest for Animate.CSS Replay?](https://stackoverflow.com/questions/12399145/animate-css-replay/66122204#66122204)
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
 - [Answer by Vadorequest for How to remove a Github Environment](https://stackoverflow.com/questions/53452910/how-to-remove-a-github-environment/65869548#65869548)
 - [Answer by Vadorequest for Is this Next.JS folder structure recommended?](https://stackoverflow.com/questions/53854104/is-this-next-js-folder-structure-recommended/65829531#65829531)
@@ -123,5 +124,4 @@
 - [Answer by Vadorequest for reactstrap - how can I change the color of the <CarouselControl> 's (the small arrows on left/right you click to slide the photos)?](https://stackoverflow.com/questions/59708901/reactstrap-how-can-i-change-the-color-of-the-carouselcontrol-s-the-small-a/63101076#63101076)
 - [Answer by Vadorequest for Upgrading python from 2.7.15 to 2.7.18 breaks Django app with SyntaxError (import AppConf # noqa)](https://stackoverflow.com/questions/62814582/upgrading-python-from-2-7-15-to-2-7-18-breaks-django-app-with-syntaxerror-impor/62816654#62816654)
 - [Upgrading python from 2.7.15 to 2.7.18 breaks Django app with SyntaxError (import AppConf # noqa)](https://stackoverflow.com/questions/62814582/upgrading-python-from-2-7-15-to-2-7-18-breaks-django-app-with-syntaxerror-impor)
-- [Answer by Vadorequest for How can I insert a line break into a <Text> component in React Native?](https://stackoverflow.com/questions/32469570/how-can-i-insert-a-line-break-into-a-text-component-in-react-native/61636719#61636719)
 <!-- STACKOVERFLOW:END -->
