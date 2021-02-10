@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [React useRecoildState (Recoil) - Does it subscribe/render even if the state isn't used when only needing the accessor?](https://stackoverflow.com/questions/66140713/react-userecoildstate-recoil-does-it-subscribe-render-even-if-the-state-isn)
 - [Answer by Vadorequest for Animate.CSS Replay?](https://stackoverflow.com/questions/12399145/animate-css-replay/66122204#66122204)
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
 - [Answer by Vadorequest for How to remove a Github Environment](https://stackoverflow.com/questions/53452910/how-to-remove-a-github-environment/65869548#65869548)
@@ -123,5 +124,4 @@
 - [Answer by Vadorequest for Extending HTML elements in React and TypeScript while preserving props](https://stackoverflow.com/questions/40731352/extending-html-elements-in-react-and-typescript-while-preserving-props/64262280#64262280)
 - [Answer by Vadorequest for reactstrap - how can I change the color of the <CarouselControl> 's (the small arrows on left/right you click to slide the photos)?](https://stackoverflow.com/questions/59708901/reactstrap-how-can-i-change-the-color-of-the-carouselcontrol-s-the-small-a/63101076#63101076)
 - [Answer by Vadorequest for Upgrading python from 2.7.15 to 2.7.18 breaks Django app with SyntaxError (import AppConf # noqa)](https://stackoverflow.com/questions/62814582/upgrading-python-from-2-7-15-to-2-7-18-breaks-django-app-with-syntaxerror-impor/62816654#62816654)
-- [Upgrading python from 2.7.15 to 2.7.18 breaks Django app with SyntaxError (import AppConf # noqa)](https://stackoverflow.com/questions/62814582/upgrading-python-from-2-7-15-to-2-7-18-breaks-django-app-with-syntaxerror-impor)
 <!-- STACKOVERFLOW:END -->
