@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Vadorequest for debounce textarea input with react/redux](https://stackoverflow.com/questions/43709356/debounce-textarea-input-with-react-redux/66199329#66199329)
 - [Answer by Vadorequest for How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil/66175616#66175616)
 - [React useRecoilState (Recoil) - Does it subscribe/render even if the state isn't used when only needing the accessor?](https://stackoverflow.com/questions/66140713/react-userecoilstate-recoil-does-it-subscribe-render-even-if-the-state-isnt)
 - [Answer by Vadorequest for Animate.CSS Replay?](https://stackoverflow.com/questions/12399145/animate-css-replay/66122204#66122204)
@@ -123,5 +124,4 @@
 - [How to filter array of objects by element property values and select the first element, using jq?](https://stackoverflow.com/questions/64402825/how-to-filter-array-of-objects-by-element-property-values-and-select-the-first-e)
 - [How to change a variable type in TypeScript without rewriting the variable?](https://stackoverflow.com/questions/64291672/how-to-change-a-variable-type-in-typescript-without-rewriting-the-variable)
 - [Answer by Vadorequest for Extending HTML elements in React and TypeScript while preserving props](https://stackoverflow.com/questions/40731352/extending-html-elements-in-react-and-typescript-while-preserving-props/64262280#64262280)
-- [Answer by Vadorequest for reactstrap - how can I change the color of the <CarouselControl> 's (the small arrows on left/right you click to slide the photos)?](https://stackoverflow.com/questions/59708901/reactstrap-how-can-i-change-the-color-of-the-carouselcontrol-s-the-small-a/63101076#63101076)
 <!-- STACKOVERFLOW:END -->
