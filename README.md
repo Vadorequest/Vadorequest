@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [React/TypeScript - Extending component with generic type and reuse generic type within component](https://stackoverflow.com/questions/66398473/react-typescript-extending-component-with-generic-type-and-reuse-generic-type)
 - [Answer by Vadorequest for debounce textarea input with react/redux](https://stackoverflow.com/questions/43709356/debounce-textarea-input-with-react-redux/66199329#66199329)
 - [Answer by Vadorequest for How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil/66175616#66175616)
 - [React useRecoilState (Recoil) - Does it subscribe/render even if the state isn't used when only needing the accessor?](https://stackoverflow.com/questions/66140713/react-userecoilstate-recoil-does-it-subscribe-render-even-if-the-state-isnt)
@@ -123,5 +124,4 @@
 - [Git good practices to keep a forked project up-to-date with its source origin when both are evolving](https://stackoverflow.com/questions/64483037/git-good-practices-to-keep-a-forked-project-up-to-date-with-its-source-origin-wh)
 - [How to filter array of objects by element property values and select the first element, using jq?](https://stackoverflow.com/questions/64402825/how-to-filter-array-of-objects-by-element-property-values-and-select-the-first-e)
 - [How to change a variable type in TypeScript without rewriting the variable?](https://stackoverflow.com/questions/64291672/how-to-change-a-variable-type-in-typescript-without-rewriting-the-variable)
-- [Answer by Vadorequest for Extending HTML elements in React and TypeScript while preserving props](https://stackoverflow.com/questions/40731352/extending-html-elements-in-react-and-typescript-while-preserving-props/64262280#64262280)
 <!-- STACKOVERFLOW:END -->
