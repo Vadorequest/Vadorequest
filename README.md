@@ -90,6 +90,7 @@
 > Dynamic list of my blog posts on Medium and StackOverflow
 
 <!-- BLOG-POST-LIST:START -->
+- [A 2021 guide about structuring your Next.js project in a flexible and efficient way](https://medium.com/unly-org/a-2021-guide-about-structuring-your-next-js-project-in-a-flexible-and-efficient-way-b5459a2a946e?source=rss-3e4790365c74------2)
 - [A 2021 guide about structuring your Next.js project in a flexible and efficient way](https://dev.to/vadorequest/a-2021-guide-about-structuring-your-next-js-project-in-a-flexible-and-efficient-way-472)
 - [Migrating Next.js (+Jest/Storybook/Cypress) to use module path aliases, instead of relative paths](https://dev.to/vadorequest/migrating-next-js-jest-storybook-cypress-to-use-module-path-aliases-instead-of-relative-paths-d9a)
 - [Using Storybook 6.1 with Next.js and Emotion 11 - Advanced usage and best practices](https://dev.to/vadorequest/using-storybook-6-1-with-next-js-and-emotion-11-advanced-usage-and-best-practices-263h)
@@ -99,7 +100,6 @@
 - [Looking for a multi-tenants CMS](https://dev.to/vadorequest/looking-for-a-multi-tenants-cms-4dpj)
 - [Next Right Now - Flexible production-grade boilerplate for building web apps (monorepo), with Next.js, Zeit and TypeScript](https://dev.to/vadorequest/next-right-now-flexible-production-grade-boilerplate-for-building-web-apps-monorepo-with-next-js-zeit-and-typescript-2ich)
 - [What technologies can help building an interactive map of nodes, that may be linked to each other (JS)](https://dev.to/vadorequest/what-technologies-can-help-building-an-interactive-map-of-nodes-that-may-be-linked-to-each-other-js-10ko)
-- [Airtable backups made simpler with AWS Lambda & S3!](https://dev.to/vadorequest/airtable-backups-made-simpler-with-aws-lambda-s3-20ga)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
