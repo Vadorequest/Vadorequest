@@ -104,6 +104,8 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Vadorequest for Creating an index for all active items](https://stackoverflow.com/questions/66825397/creating-an-index-for-all-active-items/66830880#66830880)
+- [Answer by Vadorequest for Why does FaunaDB not create my user if I query for existing ones, but if not it creates the user? FaunaDB / NextJS](https://stackoverflow.com/questions/66828063/why-does-faunadb-not-create-my-user-if-i-query-for-existing-ones-but-if-not-it/66830820#66830820)
 - [Answer by Vadorequest for Trace why a React component is re-rendering](https://stackoverflow.com/questions/41004631/trace-why-a-react-component-is-re-rendering/66604983#66604983)
 - [React/TypeScript - Extending component with generic type and reuse generic type within component](https://stackoverflow.com/questions/66398473/react-typescript-extending-component-with-generic-type-and-reuse-generic-type)
 - [Answer by Vadorequest for debounce textarea input with react/redux](https://stackoverflow.com/questions/43709356/debounce-textarea-input-with-react-redux/66199329#66199329)
@@ -122,6 +124,4 @@
 - [Answer by Vadorequest for Git good practices to keep a forked project up-to-date with its source origin when both are evolving](https://stackoverflow.com/questions/64483037/git-good-practices-to-keep-a-forked-project-up-to-date-with-its-source-origin-wh/65066272#65066272)
 - [Answer by Vadorequest for How to dynamically generate test cases in Cypress?](https://stackoverflow.com/questions/63114302/how-to-dynamically-generate-test-cases-in-cypress/65066133#65066133)
 - [Answer by Vadorequest for How to get image size (height & width) using JavaScript?](https://stackoverflow.com/questions/623172/how-to-get-image-size-height-width-using-javascript/64694446#64694446)
-- [Git good practices to keep a forked project up-to-date with its source origin when both are evolving](https://stackoverflow.com/questions/64483037/git-good-practices-to-keep-a-forked-project-up-to-date-with-its-source-origin-wh)
-- [How to filter array of objects by element property values and select the first element, using jq?](https://stackoverflow.com/questions/64402825/how-to-filter-array-of-objects-by-element-property-values-and-select-the-first-e)
 <!-- STACKOVERFLOW:END -->
