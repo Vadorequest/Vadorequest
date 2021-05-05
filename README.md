@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Vadorequest for Javascript .querySelector find <div> by innerTEXT](https://stackoverflow.com/questions/37098405/javascript-queryselector-find-div-by-innertext/67398903#67398903)
 - [Answer by Vadorequest for Is it safe to store a FaunaDB client secret in cookies?](https://stackoverflow.com/questions/67185927/is-it-safe-to-store-a-faunadb-client-secret-in-cookies/67191026#67191026)
 - [How to list all variables listed in a dot env file (e.g: .env.local.example)](https://stackoverflow.com/questions/66950285/how-to-list-all-variables-listed-in-a-dot-env-file-e-g-env-local-example)
 - [Answer by Vadorequest for Creating an index for all active items](https://stackoverflow.com/questions/66825397/creating-an-index-for-all-active-items/66830880#66830880)
@@ -123,5 +124,4 @@
 - [Answer by Vadorequest for How does "unpublishing" a GitHub Action from the Marketplace works? Is it possible? Are published versions safe?](https://stackoverflow.com/questions/65319710/how-does-unpublishing-a-github-action-from-the-marketplace-works-is-it-possib/65357990#65357990)
 - [How does "unpublishing" a GitHub Action from the Marketplace works? Is it possible? Are published versions safe?](https://stackoverflow.com/questions/65319710/how-does-unpublishing-a-github-action-from-the-marketplace-works-is-it-possib)
 - [Answer by Vadorequest for Git good practices to keep a forked project up-to-date with its source origin when both are evolving](https://stackoverflow.com/questions/64483037/git-good-practices-to-keep-a-forked-project-up-to-date-with-its-source-origin-wh/65066272#65066272)
-- [Answer by Vadorequest for How to dynamically generate test cases in Cypress?](https://stackoverflow.com/questions/63114302/how-to-dynamically-generate-test-cases-in-cypress/65066133#65066133)
 <!-- STACKOVERFLOW:END -->
