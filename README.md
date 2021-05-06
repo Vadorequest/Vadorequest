@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Vadorequest for How to get record's "Ref" in FaunaDB predicate function?](https://stackoverflow.com/questions/67418091/how-to-get-records-ref-in-faunadb-predicate-function/67418593#67418593)
 - [Answer by Vadorequest for Javascript .querySelector find <div> by innerTEXT](https://stackoverflow.com/questions/37098405/javascript-queryselector-find-div-by-innertext/67398903#67398903)
 - [Answer by Vadorequest for Is it safe to store a FaunaDB client secret in cookies?](https://stackoverflow.com/questions/67185927/is-it-safe-to-store-a-faunadb-client-secret-in-cookies/67191026#67191026)
 - [How to list all variables listed in a dot env file (e.g: .env.local.example)](https://stackoverflow.com/questions/66950285/how-to-list-all-variables-listed-in-a-dot-env-file-e-g-env-local-example)
@@ -123,5 +124,4 @@
 - [How to fetch the list of workflows for a GitHub private repository?](https://stackoverflow.com/questions/65440951/how-to-fetch-the-list-of-workflows-for-a-github-private-repository)
 - [Answer by Vadorequest for How does "unpublishing" a GitHub Action from the Marketplace works? Is it possible? Are published versions safe?](https://stackoverflow.com/questions/65319710/how-does-unpublishing-a-github-action-from-the-marketplace-works-is-it-possib/65357990#65357990)
 - [How does "unpublishing" a GitHub Action from the Marketplace works? Is it possible? Are published versions safe?](https://stackoverflow.com/questions/65319710/how-does-unpublishing-a-github-action-from-the-marketplace-works-is-it-possib)
-- [Answer by Vadorequest for Git good practices to keep a forked project up-to-date with its source origin when both are evolving](https://stackoverflow.com/questions/64483037/git-good-practices-to-keep-a-forked-project-up-to-date-with-its-source-origin-wh/65066272#65066272)
 <!-- STACKOVERFLOW:END -->
