@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Vadorequest for How can I find all public comments for a Github user?](https://stackoverflow.com/questions/39568301/how-can-i-find-all-public-comments-for-a-github-user/67713052#67713052)
 - [Answer by Vadorequest for Are relative links valid in <link rel="alternate" hreflang="..." /> tags?](https://stackoverflow.com/questions/28291574/are-relative-links-valid-in-link-rel-alternate-hreflang-tags/67476915#67476915)
 - [Answer by Vadorequest for How to get record's "Ref" in FaunaDB predicate function?](https://stackoverflow.com/questions/67418091/how-to-get-records-ref-in-faunadb-predicate-function/67418593#67418593)
 - [Answer by Vadorequest for Javascript .querySelector find <div> by innerTEXT](https://stackoverflow.com/questions/37098405/javascript-queryselector-find-div-by-innertext/67398903#67398903)
@@ -123,5 +124,4 @@
 - [Answer by Vadorequest for How do I POST JSON data with cURL?](https://stackoverflow.com/questions/7172784/how-do-i-post-json-data-with-curl/65509003#65509003)
 - [Answer by Vadorequest for How to fetch the list of workflows for a GitHub private repository?](https://stackoverflow.com/questions/65440951/how-to-fetch-the-list-of-workflows-for-a-github-private-repository/65458186#65458186)
 - [How to fetch the list of workflows for a GitHub private repository?](https://stackoverflow.com/questions/65440951/how-to-fetch-the-list-of-workflows-for-a-github-private-repository)
-- [Answer by Vadorequest for How does "unpublishing" a GitHub Action from the Marketplace works? Is it possible? Are published versions safe?](https://stackoverflow.com/questions/65319710/how-does-unpublishing-a-github-action-from-the-marketplace-works-is-it-possib/65357990#65357990)
 <!-- STACKOVERFLOW:END -->
