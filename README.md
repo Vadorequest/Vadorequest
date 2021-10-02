@@ -122,6 +122,6 @@
 - [Answer by Vadorequest for Is this Next.JS folder structure recommended?](https://stackoverflow.com/questions/53854104/is-this-next-js-folder-structure-recommended/65829531#65829531)
 - [Answer by Vadorequest for Launching a website via windows commandline](https://stackoverflow.com/questions/3739327/launching-a-website-via-windows-commandline/65643034#65643034)
 - [Answer by Vadorequest for How do I POST JSON data with cURL?](https://stackoverflow.com/questions/7172784/how-do-i-post-json-data-with-curl/65509003#65509003)
-- [Answer by Vadorequest for How to fetch the list of workflows for a GitHub private repository?](https://stackoverflow.com/questions/65440951/how-to-fetch-the-list-of-workflows-for-a-github-private-repository/65458186#65458186)
+- [How to fetch the list of workflows for a GitHub private repository?](https://stackoverflow.com/questions/65440951/how-to-fetch-the-list-of-workflows-for-a-github-private-repository)
 - [Answer by Vadorequest for integrating Sentry in Next.js project](https://stackoverflow.com/questions/57195586/integrating-sentry-in-next-js-project/60512952#60512952)
 <!-- STACKOVERFLOW:END -->
