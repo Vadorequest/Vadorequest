@@ -121,7 +121,7 @@
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
 - [Answer by Vadorequest for How to remove a Github Environment](https://stackoverflow.com/questions/53452910/how-to-remove-a-github-environment/65869548#65869548)
 - [Answer by Vadorequest for Is this Next.JS folder structure recommended?](https://stackoverflow.com/questions/53854104/is-this-next-js-folder-structure-recommended/65829531#65829531)
-- [Answer by Vadorequest for Launching a website via windows commandline](https://stackoverflow.com/questions/3739327/launching-a-website-via-windows-commandline/65643034#65643034)
-- [Answer by Vadorequest for How do I POST JSON data with cURL?](https://stackoverflow.com/questions/7172784/how-do-i-post-json-data-with-curl/65509003#65509003)
+- [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
+- [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
 - [Answer by Vadorequest for integrating Sentry in Next.js project](https://stackoverflow.com/questions/57195586/integrating-sentry-in-next-js-project/60512952#60512952)
 <!-- STACKOVERFLOW:END -->
