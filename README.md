@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Why do some websites render emojis as symbols? (ex: warning emoji "⚠️")](https://stackoverflow.com/questions/69809016/why-do-some-websites-render-emojis-as-symbols-ex-warning-emoji-%ef%b8%8f)
 - [Answer by Vadorequest for IBAN Validation check](https://stackoverflow.com/questions/21928083/iban-validation-check/69498676#69498676)
 - [Answer by Vadorequest for How can I find all public comments for a Github user?](https://stackoverflow.com/questions/39568301/how-can-i-find-all-public-comments-for-a-github-user/67713052#67713052)
 - [Answer by Vadorequest for Are relative links valid in <link rel="alternate" hreflang="..." /> tags?](https://stackoverflow.com/questions/28291574/are-relative-links-valid-in-link-rel-alternate-hreflang-tags/67476915#67476915)
@@ -123,5 +124,4 @@
 - [Answer by Vadorequest for Is this Next.JS folder structure recommended?](https://stackoverflow.com/questions/53854104/is-this-next-js-folder-structure-recommended/65829531#65829531)
 - [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
 - [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
-- [Answer by Vadorequest for integrating Sentry in Next.js project](https://stackoverflow.com/questions/57195586/integrating-sentry-in-next-js-project/60512952#60512952)
 <!-- STACKOVERFLOW:END -->
