@@ -120,8 +120,8 @@
 - [React useRecoilState &lpar;Recoil&rpar; - Does it subscribe/render even if the state isn&#39;t used when only needing the accessor?](https://stackoverflow.com/questions/66140713/react-userecoilstate-recoil-does-it-subscribe-render-even-if-the-state-isnt)
 - [Answer by Vadorequest for Animate.CSS Replay?](https://stackoverflow.com/questions/12399145/animate-css-replay/66122204#66122204)
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
-- [Answer by Vadorequest for How to remove a Github Environment](https://stackoverflow.com/questions/53452910/how-to-remove-a-github-environment/65869548#65869548)
-- [Answer by Vadorequest for Is this Next.JS folder structure recommended?](https://stackoverflow.com/questions/53854104/is-this-next-js-folder-structure-recommended/65829531#65829531)
 - [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
 - [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
+- [How to write the default translation with react-i18next Trans component, that is valid JSX when using interpolated variables?](https://stackoverflow.com/questions/59643243/how-to-write-the-default-translation-with-react-i18next-trans-component-that-is)
+- [How to install MySQL 5.6 on OSX Mojave?](https://stackoverflow.com/questions/54935512/how-to-install-mysql-5-6-on-osx-mojave)
 <!-- STACKOVERFLOW:END -->
