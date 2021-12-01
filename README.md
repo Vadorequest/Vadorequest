@@ -104,7 +104,6 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
-- [Answer by Vadorequest for How to get page URL or hostname in NextJs Project?](https://stackoverflow.com/questions/65199051/how-to-get-page-url-or-hostname-in-nextjs-project/70169895#70169895)
 - [Answer by Vadorequest for Send file as response using NextJS API](https://stackoverflow.com/questions/63066985/send-file-as-response-using-nextjs-api/70089343#70089343)
 - [Why do some websites render emojis as symbols? &lpar;ex: warning emoji &quot;⚠️&quot;&rpar;](https://stackoverflow.com/questions/69809016/why-do-some-websites-render-emojis-as-symbols-ex-warning-emoji-%ef%b8%8f)
 - [Answer by Vadorequest for IBAN Validation check](https://stackoverflow.com/questions/21928083/iban-validation-check/69498676#69498676)
@@ -119,6 +118,7 @@
 - [React/TypeScript - Extending component with generic type and reuse generic type within component](https://stackoverflow.com/questions/66398473/react-typescript-extending-component-with-generic-type-and-reuse-generic-type)
 - [Answer by Vadorequest for debounce textarea input with react/redux](https://stackoverflow.com/questions/43709356/debounce-textarea-input-with-react-redux/66199329#66199329)
 - [Answer by Vadorequest for How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil/66175616#66175616)
+- [React useRecoilState &lpar;Recoil&rpar; - Does it subscribe/render even if the state isn&#39;t used when only needing the accessor?](https://stackoverflow.com/questions/66140713/react-userecoilstate-recoil-does-it-subscribe-render-even-if-the-state-isnt)
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
 - [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
 - [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
