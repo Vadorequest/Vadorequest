@@ -91,15 +91,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [A 2021 guide about structuring your Next.js project in a flexible and efficient way](https://medium.com/unly-org/a-2021-guide-about-structuring-your-next-js-project-in-a-flexible-and-efficient-way-b5459a2a946e?source=rss-3e4790365c74------2)
-- [A 2021 guide about structuring your Next.js project in a flexible and efficient way](https://dev.to/vadorequest/a-2021-guide-about-structuring-your-next-js-project-in-a-flexible-and-efficient-way-472)
 - [Migrating Next.js &lpar;+Jest/Storybook/Cypress&rpar; to use module path aliases, instead of relative paths](https://medium.com/unly-org/migrating-next-js-jest-storybook-cypress-to-use-module-path-aliases-instead-of-relative-paths-5b7d62c5e9cb?source=rss-3e4790365c74------2)
-- [Migrating Next.js &lpar;+Jest/Storybook/Cypress&rpar; to use module path aliases, instead of relative paths](https://dev.to/vadorequest/migrating-next-js-jest-storybook-cypress-to-use-module-path-aliases-instead-of-relative-paths-d9a)
 - [Using Storybook 6.1 with Next.js and Emotion 11 — Advanced usage and best practices](https://medium.com/unly-org/using-storybook-6-1-with-next-js-and-emotion-11-advanced-usage-and-best-practices-77a73db46bdb?source=rss-3e4790365c74------2)
-- [Using Storybook 6.1 with Next.js and Emotion 11 - Advanced usage and best practices](https://dev.to/vadorequest/using-storybook-6-1-with-next-js-and-emotion-11-advanced-usage-and-best-practices-263h)
 - [Next Right Now in 2020 — Most flexible and production-ready boilerplate for Next.js](https://medium.com/unly-org/next-right-now-in-2020-most-flexible-and-production-ready-boilerplate-for-next-js-c7e39bf1474?source=rss-3e4790365c74------2)
-- [Next Right Now in 2020 - Most flexible and production-ready boilerplate for Next.js](https://dev.to/vadorequest/next-right-now-in-2020-most-flexible-and-production-ready-boilerplate-for-next-js-3hkk)
-- [How would you keep the same Python 2.7 app running for years to come?](https://dev.to/vadorequest/how-would-you-keep-the-same-python-2-7-app-running-for-years-to-come-2bj)
-- [Next Right Now v2 - Play around with Next.js v9.4 using SSG/SSR, incremental builds, fallback builds, preview mode and more!](https://dev.to/vadorequest/next-right-now-v2-play-around-with-next-js-v9-4-using-ssg-ssr-incremental-builds-fallback-builds-preview-mode-and-more-ood)
+- [Next Right Now — Flexible production-grade boilerplate for building web apps &lpar;monorepo&rpar;, with…](https://medium.com/unly-org/next-right-now-flexible-production-grade-boilerplate-for-building-web-apps-monorepo-with-b4b92288e89b?source=rss-3e4790365c74------2)
+- [Unly Releases an Open Source Software for “Airtable Managed backups”](https://medium.com/unly-org/unly-releases-an-open-source-software-for-airtable-managed-backups-919fbdba2a3b?source=rss-3e4790365c74------2)
+- [Universal language detector for JavaScript &lpar;browser + nodejs&rpar;](https://medium.com/unly-org/universal-language-detector-for-javascript-browser-nodejs-31a271f923a?source=rss-3e4790365c74------2)
+- [How building our own “Typeform to Google Sheets connector” improved our productivity](https://medium.com/unly-org/how-building-our-own-typeform-to-google-sheets-connector-improved-our-productivity-2a902ce3a480?source=rss-3e4790365c74------2)
+- [How to consume any JSON API using Google Sheets, and keep it up-to-date automagically](https://medium.com/unly-org/how-to-consume-any-json-api-using-google-sheets-and-keep-it-up-to-date-automagically-fb6e94521abd?source=rss-3e4790365c74------2)
+- [How ESM made quick prototyping and scripting with node.js](https://medium.com/unly-org/how-esm-made-quick-prototyping-and-scripting-with-node-js-4a3749d40c5f?source=rss-3e4790365c74------2)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
