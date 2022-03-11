@@ -117,11 +117,11 @@
 - [Answer by Vadorequest for Creating an index for all active items](https://stackoverflow.com/questions/66825397/creating-an-index-for-all-active-items/66830880#66830880)
 - [Answer by Vadorequest for Trace why a React component is re-rendering](https://stackoverflow.com/questions/41004631/trace-why-a-react-component-is-re-rendering/66604983#66604983)
 - [React/TypeScript - Extending component with generic type and reuse generic type within component](https://stackoverflow.com/questions/66398473/react-typescript-extending-component-with-generic-type-and-reuse-generic-type)
-- [Answer by Vadorequest for debounce textarea input with react/redux](https://stackoverflow.com/questions/43709356/debounce-textarea-input-with-react-redux/66199329#66199329)
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
 - [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
 - [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
 - [How to write the default translation with react-i18next Trans component, that is valid JSX when using interpolated variables?](https://stackoverflow.com/questions/59643243/how-to-write-the-default-translation-with-react-i18next-trans-component-that-is)
 - [How to install MySQL 5.6 on OSX Mojave?](https://stackoverflow.com/questions/54935512/how-to-install-mysql-5-6-on-osx-mojave)
 - [Answer by Vadorequest for React - defaultProps vs ES6 default params when destructuring &lpar;performances issues&rpar;](https://stackoverflow.com/questions/41488537/react-defaultprops-vs-es6-default-params-when-destructuring-performances-issu/42733457#42733457)
+- [React - defaultProps vs ES6 default params when destructuring &lpar;performances issues&rpar;](https://stackoverflow.com/questions/41488537/react-defaultprops-vs-es6-default-params-when-destructuring-performances-issu)
 <!-- STACKOVERFLOW:END -->
