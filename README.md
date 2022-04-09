@@ -90,6 +90,7 @@
 > Dynamic list of my blog posts on Medium and StackOverflow
 
 <!-- BLOG-POST-LIST:START -->
+- [The 5 no-code most typical mistakes and how to avoid them](https://medium.com/unly-org/the-5-no-code-most-typical-mistakes-and-how-to-avoid-them-6bde79005127?source=rss-3e4790365c74------2)
 - [A 2021 guide about structuring your Next.js project in a flexible and efficient way](https://medium.com/unly-org/a-2021-guide-about-structuring-your-next-js-project-in-a-flexible-and-efficient-way-b5459a2a946e?source=rss-3e4790365c74------2)
 - [A 2021 guide about structuring your Next.js project in a flexible and efficient way](https://dev.to/vadorequest/a-2021-guide-about-structuring-your-next-js-project-in-a-flexible-and-efficient-way-472)
 - [Migrating Next.js &lpar;+Jest/Storybook/Cypress&rpar; to use module path aliases, instead of relative paths](https://medium.com/unly-org/migrating-next-js-jest-storybook-cypress-to-use-module-path-aliases-instead-of-relative-paths-5b7d62c5e9cb?source=rss-3e4790365c74------2)
@@ -99,7 +100,6 @@
 - [Next Right Now in 2020 — Most flexible and production-ready boilerplate for Next.js](https://medium.com/unly-org/next-right-now-in-2020-most-flexible-and-production-ready-boilerplate-for-next-js-c7e39bf1474?source=rss-3e4790365c74------2)
 - [Next Right Now in 2020 - Most flexible and production-ready boilerplate for Next.js](https://dev.to/vadorequest/next-right-now-in-2020-most-flexible-and-production-ready-boilerplate-for-next-js-3hkk)
 - [How would you keep the same Python 2.7 app running for years to come?](https://dev.to/vadorequest/how-would-you-keep-the-same-python-2-7-app-running-for-years-to-come-2bj)
-- [Next Right Now v2 - Play around with Next.js v9.4 using SSG/SSR, incremental builds, fallback builds, preview mode and more!](https://dev.to/vadorequest/next-right-now-v2-play-around-with-next-js-v9-4-using-ssg-ssr-incremental-builds-fallback-builds-preview-mode-and-more-ood)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
