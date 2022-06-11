@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Is it possible to watch over XHR/Fetch requests happening in the browser?](https://stackoverflow.com/questions/72585423/is-it-possible-to-watch-over-xhr-fetch-requests-happening-in-the-browser)
 - [Answer by Vadorequest for Convert audio files to mp3 using ffmpeg](https://stackoverflow.com/questions/3255674/convert-audio-files-to-mp3-using-ffmpeg/70449834#70449834)
 - [Answer by Vadorequest for Send file as response using NextJS API](https://stackoverflow.com/questions/63066985/send-file-as-response-using-nextjs-api/70089343#70089343)
 - [Why do some websites render emojis as symbols? &lpar;ex: warning emoji &quot;⚠️&quot;&rpar;](https://stackoverflow.com/questions/69809016/why-do-some-websites-render-emojis-as-symbols-ex-warning-emoji-%ef%b8%8f)
@@ -116,7 +117,6 @@
 - [How to list all variables listed in a dot env file &lpar;e.g: .env.local.example&rpar;](https://stackoverflow.com/questions/66950285/how-to-list-all-variables-listed-in-a-dot-env-file-e-g-env-local-example)
 - [Answer by Vadorequest for Creating an index for all active items](https://stackoverflow.com/questions/66825397/creating-an-index-for-all-active-items/66830880#66830880)
 - [Answer by Vadorequest for Trace why a React component is re-rendering](https://stackoverflow.com/questions/41004631/trace-why-a-react-component-is-re-rendering/66604983#66604983)
-- [React/TypeScript - Extending component with generic type and reuse generic type within component](https://stackoverflow.com/questions/66398473/react-typescript-extending-component-with-generic-type-and-reuse-generic-type)
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
 - [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
 - [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
