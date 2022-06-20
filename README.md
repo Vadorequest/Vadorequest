@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Vadorequest for Is it possible to watch over XHR/Fetch requests happening in the browser?](https://stackoverflow.com/questions/72585423/is-it-possible-to-watch-over-xhr-fetch-requests-happening-in-the-browser/72685444#72685444)
 - [Answer by Vadorequest for nodegit - How to know if a commit is empty &lpar;to avoid pushing empty commits&rpar;](https://stackoverflow.com/questions/72595392/nodegit-how-to-know-if-a-commit-is-empty-to-avoid-pushing-empty-commits/72595729#72595729)
 - [nodegit - How to know if a commit is empty &lpar;to avoid pushing empty commits&rpar;](https://stackoverflow.com/questions/72595392/nodegit-how-to-know-if-a-commit-is-empty-to-avoid-pushing-empty-commits)
 - [Using Git to frequently push dynamically created commits](https://stackoverflow.com/questions/72588316/using-git-to-frequently-push-dynamically-created-commits)
@@ -118,7 +119,6 @@
 - [Answer by Vadorequest for Javascript .querySelector find &lt;div&gt; by innerTEXT](https://stackoverflow.com/questions/37098405/javascript-queryselector-find-div-by-innertext/67398903#67398903)
 - [Answer by Vadorequest for Is it safe to store a FaunaDB client secret in cookies?](https://stackoverflow.com/questions/67185927/is-it-safe-to-store-a-faunadb-client-secret-in-cookies/67191026#67191026)
 - [How to list all variables listed in a dot env file &lpar;e.g: .env.local.example&rpar;](https://stackoverflow.com/questions/66950285/how-to-list-all-variables-listed-in-a-dot-env-file-e-g-env-local-example)
-- [Answer by Vadorequest for Creating an index for all active items](https://stackoverflow.com/questions/66825397/creating-an-index-for-all-active-items/66830880#66830880)
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
 - [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
 - [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
