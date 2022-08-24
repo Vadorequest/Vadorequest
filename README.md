@@ -118,10 +118,10 @@
 - [Answer by Vadorequest for Are relative links valid in &lt;link rel=&quot;alternate&quot; hreflang=&quot;...&quot; /&gt; tags?](https://stackoverflow.com/questions/28291574/are-relative-links-valid-in-link-rel-alternate-hreflang-tags/67476915#67476915)
 - [Answer by Vadorequest for How to get record&#39;s &quot;Ref&quot; in FaunaDB predicate function?](https://stackoverflow.com/questions/67418091/how-to-get-records-ref-in-faunadb-predicate-function/67418593#67418593)
 - [Answer by Vadorequest for Javascript .querySelector find &lt;div&gt; by innerTEXT](https://stackoverflow.com/questions/37098405/javascript-queryselector-find-div-by-innertext/67398903#67398903)
-- [Answer by Vadorequest for Is it safe to store a FaunaDB client secret in cookies?](https://stackoverflow.com/questions/67185927/is-it-safe-to-store-a-faunadb-client-secret-in-cookies/67191026#67191026)
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
 - [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
 - [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
 - [How to write the default translation with react-i18next Trans component, that is valid JSX when using interpolated variables?](https://stackoverflow.com/questions/59643243/how-to-write-the-default-translation-with-react-i18next-trans-component-that-is)
 - [How to install MySQL 5.6 on OSX Mojave?](https://stackoverflow.com/questions/54935512/how-to-install-mysql-5-6-on-osx-mojave)
+- [Answer by Vadorequest for React - defaultProps vs ES6 default params when destructuring &lpar;performances issues&rpar;](https://stackoverflow.com/questions/41488537/react-defaultprops-vs-es6-default-params-when-destructuring-performances-issu/42733457#42733457)
 <!-- STACKOVERFLOW:END -->
