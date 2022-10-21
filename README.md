@@ -80,8 +80,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-right-now" />
 </a>
 
-<a href="https://github.com/UnlyEd/next-typescript-api-zeit-boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unlyed&repo=next-typescript-api-zeit-boilerplate" />
+<a href="https://github.com/Vadorequest/rwa-faunadb-reaflow-nextjs-magic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vadorequest&repo=rwa-faunadb-reaflow-nextjs-magic" />
 </a>
 
 
