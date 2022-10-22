@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Cannot see remote branches in WebStorm](https://stackoverflow.com/questions/74162397/cannot-see-remote-branches-in-webstorm)
 - [Answer by Vadorequest for How to set placeholder value using CSS?](https://stackoverflow.com/questions/8075986/how-to-set-placeholder-value-using-css/72912701#72912701)
 - [Answer by Vadorequest for Is it possible to watch over XHR/Fetch requests happening in the browser?](https://stackoverflow.com/questions/72585423/is-it-possible-to-watch-over-xhr-fetch-requests-happening-in-the-browser/72685444#72685444)
 - [Answer by Vadorequest for nodegit - How to know if a commit is empty &lpar;to avoid pushing empty commits&rpar;](https://stackoverflow.com/questions/72595392/nodegit-how-to-know-if-a-commit-is-empty-to-avoid-pushing-empty-commits/72595729#72595729)
@@ -116,7 +117,6 @@
 - [Answer by Vadorequest for IBAN Validation check](https://stackoverflow.com/questions/21928083/iban-validation-check/69498676#69498676)
 - [Answer by Vadorequest for How can I find all public comments for a Github user?](https://stackoverflow.com/questions/39568301/how-can-i-find-all-public-comments-for-a-github-user/67713052#67713052)
 - [Answer by Vadorequest for Are relative links valid in &lt;link rel=&quot;alternate&quot; hreflang=&quot;...&quot; /&gt; tags?](https://stackoverflow.com/questions/28291574/are-relative-links-valid-in-link-rel-alternate-hreflang-tags/67476915#67476915)
-- [Answer by Vadorequest for How to get record&#39;s &quot;Ref&quot; in FaunaDB predicate function?](https://stackoverflow.com/questions/67418091/how-to-get-records-ref-in-faunadb-predicate-function/67418593#67418593)
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
 - [Answer by Vadorequest for How do I POST JSON data with cURL?](https://stackoverflow.com/questions/7172784/how-do-i-post-json-data-with-curl/65509003#65509003)
 - [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
