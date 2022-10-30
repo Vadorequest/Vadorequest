@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Tips on how to make a GitHub action faster](https://stackoverflow.com/questions/74251829/tips-on-how-to-make-a-github-action-faster)
 - [Answer by Vadorequest for Is it possible to create a new git repository from a template only using the command line?](https://stackoverflow.com/questions/62630485/is-it-possible-to-create-a-new-git-repository-from-a-template-only-using-the-com/74172425#74172425)
 - [Cannot see remote branches in WebStorm](https://stackoverflow.com/questions/74162397/cannot-see-remote-branches-in-webstorm)
 - [Answer by Vadorequest for How to set placeholder value using CSS?](https://stackoverflow.com/questions/8075986/how-to-set-placeholder-value-using-css/72912701#72912701)
@@ -121,7 +122,6 @@
 - [Answer by Vadorequest for How do I POST JSON data with cURL?](https://stackoverflow.com/questions/7172784/how-do-i-post-json-data-with-curl/65509003#65509003)
 - [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
 - [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
-- [How to write the default translation with react-i18next Trans component, that is valid JSX when using interpolated variables?](https://stackoverflow.com/questions/59643243/how-to-write-the-default-translation-with-react-i18next-trans-component-that-is)
 - [How to install MySQL 5.6 on OSX Mojave?](https://stackoverflow.com/questions/54935512/how-to-install-mysql-5-6-on-osx-mojave)
 - [Answer by Vadorequest for React - defaultProps vs ES6 default params when destructuring &lpar;performances issues&rpar;](https://stackoverflow.com/questions/41488537/react-defaultprops-vs-es6-default-params-when-destructuring-performances-issu/42733457#42733457)
 <!-- STACKOVERFLOW:END -->
