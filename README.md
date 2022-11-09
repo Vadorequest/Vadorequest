@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [How to send a POST request as form-data when FormData is unavailable? &lpar;Airtable scripts&rpar;](https://stackoverflow.com/questions/74378096/how-to-send-a-post-request-as-form-data-when-formdata-is-unavailable-airtable)
 - [Answer by Vadorequest for How to get year/month/day from a date object?](https://stackoverflow.com/questions/2013255/how-to-get-year-month-day-from-a-date-object/74256663#74256663)
 - [Tips on how to make a GitHub action faster](https://stackoverflow.com/questions/74251829/tips-on-how-to-make-a-github-action-faster)
 - [Answer by Vadorequest for Is it possible to create a new git repository from a template only using the command line?](https://stackoverflow.com/questions/62630485/is-it-possible-to-create-a-new-git-repository-from-a-template-only-using-the-com/74172425#74172425)
@@ -123,5 +124,4 @@
 - [Answer by Vadorequest for How do I POST JSON data with cURL?](https://stackoverflow.com/questions/7172784/how-do-i-post-json-data-with-curl/65509003#65509003)
 - [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
 - [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
-- [How to install MySQL 5.6 on OSX Mojave?](https://stackoverflow.com/questions/54935512/how-to-install-mysql-5-6-on-osx-mojave)
 <!-- STACKOVERFLOW:END -->
