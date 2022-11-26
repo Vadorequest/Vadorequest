@@ -90,6 +90,8 @@
 > Dynamic list of my blog posts on Medium and StackOverflow
 
 <!-- BLOG-POST-LIST:START -->
+- [SendGrid is deceptive about “Opened emails” statistic](https://medium.com/unly-org/sendgrid-is-deceptive-about-opened-emails-statistic-b30eed74bbe0?source=rss-3e4790365c74------2)
+- [SendGrid is deceptive about &quot;Opened emails&quot; statistic](https://dev.to/vadorequest/sendgrid-is-deceptive-about-opened-emails-statistic-21e0)
 - [The 5 no-code most typical mistakes and how to avoid them](https://medium.com/unly-org/the-5-no-code-most-typical-mistakes-and-how-to-avoid-them-6bde79005127?source=rss-3e4790365c74------2)
 - [A 2021 guide about structuring your Next.js project in a flexible and efficient way](https://medium.com/unly-org/a-2021-guide-about-structuring-your-next-js-project-in-a-flexible-and-efficient-way-b5459a2a946e?source=rss-3e4790365c74------2)
 - [A 2021 guide about structuring your Next.js project in a flexible and efficient way](https://dev.to/vadorequest/a-2021-guide-about-structuring-your-next-js-project-in-a-flexible-and-efficient-way-472)
@@ -98,8 +100,6 @@
 - [Using Storybook 6.1 with Next.js and Emotion 11 — Advanced usage and best practices](https://medium.com/unly-org/using-storybook-6-1-with-next-js-and-emotion-11-advanced-usage-and-best-practices-77a73db46bdb?source=rss-3e4790365c74------2)
 - [Using Storybook 6.1 with Next.js and Emotion 11 - Advanced usage and best practices](https://dev.to/vadorequest/using-storybook-6-1-with-next-js-and-emotion-11-advanced-usage-and-best-practices-263h)
 - [Next Right Now in 2020 — Most flexible and production-ready boilerplate for Next.js](https://medium.com/unly-org/next-right-now-in-2020-most-flexible-and-production-ready-boilerplate-for-next-js-c7e39bf1474?source=rss-3e4790365c74------2)
-- [Next Right Now in 2020 - Most flexible and production-ready boilerplate for Next.js](https://dev.to/vadorequest/next-right-now-in-2020-most-flexible-and-production-ready-boilerplate-for-next-js-3hkk)
-- [How would you keep the same Python 2.7 app running for years to come?](https://dev.to/vadorequest/how-would-you-keep-the-same-python-2-7-app-running-for-years-to-come-2bj)
 <!-- BLOG-POST-LIST:END -->
 
 # StackOverflow Activity
