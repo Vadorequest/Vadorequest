@@ -122,6 +122,6 @@
 - [Answer by Vadorequest for IBAN Validation check](https://stackoverflow.com/questions/21928083/iban-validation-check/69498676#69498676)
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
 - [Answer by Vadorequest for How do I POST JSON data with cURL?](https://stackoverflow.com/questions/7172784/how-do-i-post-json-data-with-curl/65509003#65509003)
+- [The difference between “require&lpar;x&rpar;” and “await import x”](https://stackoverflow.com/questions/61631355/the-difference-between-requirex-and-await-import-x)
 - [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
-- [React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console)
 <!-- STACKOVERFLOW:END -->
