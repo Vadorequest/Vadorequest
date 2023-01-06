@@ -119,7 +119,7 @@
 - [Answer by Vadorequest for Convert audio files to mp3 using ffmpeg](https://stackoverflow.com/questions/3255674/convert-audio-files-to-mp3-using-ffmpeg/70449834#70449834)
 - [Answer by Vadorequest for Send file as response using NextJS API](https://stackoverflow.com/questions/63066985/send-file-as-response-using-nextjs-api/70089343#70089343)
 - [Why do some websites render emojis as symbols? &lpar;ex: warning emoji &quot;⚠️&quot;&rpar;](https://stackoverflow.com/questions/69809016/why-do-some-websites-render-emojis-as-symbols-ex-warning-emoji-%ef%b8%8f)
-- [Answer by Vadorequest for IBAN Validation check](https://stackoverflow.com/questions/21928083/iban-validation-check/69498676#69498676)
+- [React/TypeScript - Extending component with generic type and reuse generic type within component](https://stackoverflow.com/questions/66398473/react-typescript-extending-component-with-generic-type-and-reuse-generic-type)
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
 - [Answer by Vadorequest for How do I POST JSON data with cURL?](https://stackoverflow.com/questions/7172784/how-do-i-post-json-data-with-curl/65509003#65509003)
 - [The difference between “require&lpar;x&rpar;” and “await import x”](https://stackoverflow.com/questions/61631355/the-difference-between-requirex-and-await-import-x)
