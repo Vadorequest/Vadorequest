@@ -104,6 +104,8 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [GitHub Actions - &quot;Node.js 12 actions are deprecated.&quot; although I upgraded everything to v18](https://stackoverflow.com/questions/75061837/github-actions-node-js-12-actions-are-deprecated-although-i-upgraded-everyt)
+- [Answer by Vadorequest for GitHub Actions - &quot;Node.js 12 actions are deprecated.&quot; although I upgraded everything to v18](https://stackoverflow.com/questions/75061837/github-actions-node-js-12-actions-are-deprecated-although-i-upgraded-everyt/75061838#75061838)
 - [How to run &quot;gh repo create&quot; with a specific user/SSH key?](https://stackoverflow.com/questions/74665494/how-to-run-gh-repo-create-with-a-specific-user-ssh-key)
 - [How to send a POST request as form-data when FormData is unavailable? &lpar;Airtable scripts&rpar;](https://stackoverflow.com/questions/74378096/how-to-send-a-post-request-as-form-data-when-formdata-is-unavailable-airtable)
 - [Answer by Vadorequest for How to get year/month/day from a date object?](https://stackoverflow.com/questions/2013255/how-to-get-year-month-day-from-a-date-object/74256663#74256663)
@@ -122,6 +124,4 @@
 - [React/TypeScript - Extending component with generic type and reuse generic type within component](https://stackoverflow.com/questions/66398473/react-typescript-extending-component-with-generic-type-and-reuse-generic-type)
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
 - [Answer by Vadorequest for How do I POST JSON data with cURL?](https://stackoverflow.com/questions/7172784/how-do-i-post-json-data-with-curl/65509003#65509003)
-- [The difference between “require&lpar;x&rpar;” and “await import x”](https://stackoverflow.com/questions/61631355/the-difference-between-requirex-and-await-import-x)
-- [Answer by Vadorequest for React-Admin - How to log record data to the console?](https://stackoverflow.com/questions/60592417/react-admin-how-to-log-record-data-to-the-console/60592484#60592484)
 <!-- STACKOVERFLOW:END -->
