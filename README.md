@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Postgres ENUM default value, what&#39;s recommended? NULL or empty string?](https://stackoverflow.com/questions/76012362/postgres-enum-default-value-whats-recommended-null-or-empty-string)
 - [How to automatically publish a GitHub Action to the Marketplace?](https://stackoverflow.com/questions/75069692/how-to-automatically-publish-a-github-action-to-the-marketplace)
 - [GitHub Actions - &quot;Node.js 12 actions are deprecated.&quot; although I upgraded everything to v18](https://stackoverflow.com/questions/75061837/github-actions-node-js-12-actions-are-deprecated-although-i-upgraded-everyt)
 - [Answer by Vadorequest for GitHub Actions - &quot;Node.js 12 actions are deprecated.&quot; although I upgraded everything to v18](https://stackoverflow.com/questions/75061837/github-actions-node-js-12-actions-are-deprecated-although-i-upgraded-everyt/75061838#75061838)
@@ -119,7 +120,6 @@
 - [nodegit - How to know if a commit is empty &lpar;to avoid pushing empty commits&rpar;](https://stackoverflow.com/questions/72595392/nodegit-how-to-know-if-a-commit-is-empty-to-avoid-pushing-empty-commits)
 - [Using Git to frequently push dynamically created commits](https://stackoverflow.com/questions/72588316/using-git-to-frequently-push-dynamically-created-commits)
 - [Is it possible to watch over XHR/Fetch requests happening in the browser?](https://stackoverflow.com/questions/72585423/is-it-possible-to-watch-over-xhr-fetch-requests-happening-in-the-browser)
-- [Answer by Vadorequest for Convert audio files to mp3 using ffmpeg](https://stackoverflow.com/questions/3255674/convert-audio-files-to-mp3-using-ffmpeg/70449834#70449834)
 - [Why do some websites render emojis as symbols? &lpar;ex: warning emoji &quot;⚠️&quot;&rpar;](https://stackoverflow.com/questions/69809016/why-do-some-websites-render-emojis-as-symbols-ex-warning-emoji-%ef%b8%8f)
 - [React/TypeScript - Extending component with generic type and reuse generic type within component](https://stackoverflow.com/questions/66398473/react-typescript-extending-component-with-generic-type-and-reuse-generic-type)
 - [How to manipulate a global state outside of a React component using Recoil?](https://stackoverflow.com/questions/66107118/how-to-manipulate-a-global-state-outside-of-a-react-component-using-recoil)
