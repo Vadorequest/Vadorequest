@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Cannot pull GitHub repository &lpar;multiple accounts&rpar; with &quot;fatal: Could not read from remote repository.&quot;](https://stackoverflow.com/questions/76914093/cannot-pull-github-repository-multiple-accounts-with-fatal-could-not-read-fr)
 - [Answer by Vadorequest for Regular expression timezone](https://stackoverflow.com/questions/22609927/regular-expression-timezone/76885101#76885101)
 - [Answer by Vadorequest for How to parse UNIX timestamps with luxon?](https://stackoverflow.com/questions/66553494/how-to-parse-unix-timestamps-with-luxon/76884046#76884046)
 - [Using Pandas to read XLSX file from Google Drive: &quot;The truth value of a DataFrame is ambiguous. Use a.empty, a.bool&lpar;&rpar;, a.item&lpar;&rpar;, a.any&lpar;&rpar; or a.all&lpar;&rpar;.&quot;](https://stackoverflow.com/questions/76266167/using-pandas-to-read-xlsx-file-from-google-drive-the-truth-value-of-a-datafram)
@@ -120,7 +121,6 @@
 - [Cannot see remote branches in WebStorm](https://stackoverflow.com/questions/74162397/cannot-see-remote-branches-in-webstorm)
 - [Answer by Vadorequest for How to set placeholder value using CSS?](https://stackoverflow.com/questions/8075986/how-to-set-placeholder-value-using-css/72912701#72912701)
 - [Answer by Vadorequest for Is it possible to watch over XHR/Fetch requests happening in the browser?](https://stackoverflow.com/questions/72585423/is-it-possible-to-watch-over-xhr-fetch-requests-happening-in-the-browser/72685444#72685444)
-- [Answer by Vadorequest for nodegit - How to know if a commit is empty &lpar;to avoid pushing empty commits&rpar;](https://stackoverflow.com/questions/72595392/nodegit-how-to-know-if-a-commit-is-empty-to-avoid-pushing-empty-commits/72595729#72595729)
 - [nodegit - How to know if a commit is empty &lpar;to avoid pushing empty commits&rpar;](https://stackoverflow.com/questions/72595392/nodegit-how-to-know-if-a-commit-is-empty-to-avoid-pushing-empty-commits)
 - [Using Git to frequently push dynamically created commits](https://stackoverflow.com/questions/72588316/using-git-to-frequently-push-dynamically-created-commits)
 - [Is it possible to watch over XHR/Fetch requests happening in the browser?](https://stackoverflow.com/questions/72585423/is-it-possible-to-watch-over-xhr-fetch-requests-happening-in-the-browser)
