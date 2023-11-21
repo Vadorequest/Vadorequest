@@ -123,5 +123,5 @@
 - [Cannot see remote branches in WebStorm](https://stackoverflow.com/questions/74162397/cannot-see-remote-branches-in-webstorm)
 - [Answer by Vadorequest for How to set placeholder value using CSS?](https://stackoverflow.com/questions/8075986/how-to-set-placeholder-value-using-css/72912701#72912701)
 - [nodegit - How to know if a commit is empty &lpar;to avoid pushing empty commits&rpar;](https://stackoverflow.com/questions/72595392/nodegit-how-to-know-if-a-commit-is-empty-to-avoid-pushing-empty-commits)
-- [Is it possible to watch over XHR/Fetch requests happening in the browser?](https://stackoverflow.com/questions/72585423/is-it-possible-to-watch-over-xhr-fetch-requests-happening-in-the-browser)
+- [React/TypeScript - Extending component with generic type and reuse generic type within component](https://stackoverflow.com/questions/66398473/react-typescript-extending-component-with-generic-type-and-reuse-generic-type)
 <!-- STACKOVERFLOW:END -->
