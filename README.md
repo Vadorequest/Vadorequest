@@ -104,6 +104,7 @@
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [How can a GitHub owner run and external PR through GitHub Actions?](https://stackoverflow.com/questions/77894343/how-can-a-github-owner-run-and-external-pr-through-github-actions)
 - [Answer by Vadorequest for Cannot pull GitHub repository &lpar;multiple accounts&rpar; with &quot;fatal: Could not read from remote repository.&quot;](https://stackoverflow.com/questions/76914093/cannot-pull-github-repository-multiple-accounts-with-fatal-could-not-read-fr/76952155#76952155)
 - [Answer by Vadorequest for Is /etc/ssh/sshd_config supporting inline comments and multiple key / value within the same line?](https://stackoverflow.com/questions/45507326/is-etc-ssh-sshd-config-supporting-inline-comments-and-multiple-key-value-with/76951896#76951896)
 - [Cannot pull GitHub repository &lpar;multiple accounts&rpar; with &quot;fatal: Could not read from remote repository.&quot;](https://stackoverflow.com/questions/76914093/cannot-pull-github-repository-multiple-accounts-with-fatal-could-not-read-fr)
@@ -121,7 +122,6 @@
 - [Tips on how to make a GitHub action faster](https://stackoverflow.com/questions/74251829/tips-on-how-to-make-a-github-action-faster)
 - [Answer by Vadorequest for Is it possible to create a new git repository from a template only using the command line?](https://stackoverflow.com/questions/62630485/is-it-possible-to-create-a-new-git-repository-from-a-template-only-using-the-com/74172425#74172425)
 - [Cannot see remote branches in WebStorm](https://stackoverflow.com/questions/74162397/cannot-see-remote-branches-in-webstorm)
-- [Answer by Vadorequest for How to set placeholder value using CSS?](https://stackoverflow.com/questions/8075986/how-to-set-placeholder-value-using-css/72912701#72912701)
 - [React/TypeScript - Extending component with generic type and reuse generic type within component](https://stackoverflow.com/questions/66398473/react-typescript-extending-component-with-generic-type-and-reuse-generic-type)
 - [Answer by Vadorequest for How do I POST JSON data with cURL?](https://stackoverflow.com/questions/7172784/how-do-i-post-json-data-with-curl/65509003#65509003)
 <!-- STACKOVERFLOW:END -->
